@@ -1,1 +1,1 @@
-# samsung-sds-mes-demo
+# slack-mes-demo
